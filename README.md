@@ -35,5 +35,5 @@ I'm an MSc student at Politecnico di Milano with a strong interest in machine le
 
 ### 📫 How to Reach Me
 
-- [![Gmail Icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-- [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Gmail Icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicola.dellavolpe23@gmail.com)
+[![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicoladellavolpe)
