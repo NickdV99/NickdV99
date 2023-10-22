@@ -20,7 +20,7 @@ I'm an MSc student at Politecnico di Milano with a strong interest in machine le
 ![Scikit-learn Icon](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras Icon](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow Icon](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI Icon](https://img.shields.io/badge/OpenAI-00CCBC?style=for-the-badge&logo=openai&logoColor=white)
+[![OpenAI](https://img.shields.io/badge/OpenAI-00CCBC?style=for-the-badge&logo=openai&logoColor=white)](https://www.openai.com)
 
 ![Jupyter Icon](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code Icon](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
